@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timSkot
 - 👀 I’m interested in FrontEnd Frameworks
-- 🌱 I’m currently learning PHP Wordpress Vue React
+- 🌱 I’m currently learning PHP Wordpress Vue React Node
 - 📫 How to reach me https://www.instagram.com/timur.ju/
 
 <!---
